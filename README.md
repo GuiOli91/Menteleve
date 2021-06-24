@@ -14,3 +14,21 @@
 |**Grupo 7: Leite, queijos e iogurtes**|*G7*|
 |**Grupo 8: Peixe, ovo, carne de frango, boi, porco**|*G8*|
 |**Grupo 9:  Doces, bebida e comida pesada**|*G9*|
+
+
+|SubGrupos|Apontamento|
+|:---|:---:|
+|**Frescas**|*F*|
+|**Leves**|*L*|
+|**INDUSTRIALIZADAS LIVRES NO DIA A DIA**|*I*|
+|**PESADAS**|*P*|
+|**Grave**|*G*|
+
+
+|Porção|Apontamento|Observação|
+|:---|:---:|---:|
+|**Porção Grande**|*G*|Maior que 150% Porção Média|
+|**Porção Média**|*M*||
+|**Porção Pequena**|*P*|Menor que 80% Porção Média|
+|**Porção Pequeníssima**|*p*|Menor que 50% Porção Média|
+
